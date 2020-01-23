@@ -1,0 +1,11 @@
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+pinned_packages:
+  - defaults::conda
+channel_priority: flexible
+envs_dirs:
+  - $HOME/.conda/envs
+pkgs_dirs:
+  - $CONDA_WORKING_DIR/pkgs
