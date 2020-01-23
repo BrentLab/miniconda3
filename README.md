@@ -9,7 +9,7 @@ This is a lab wide installation of miniconda. It is implemented as a module and 
 
 To load miniconda (which just gives you access to the program conda)
 
-'ml miniconda' or 'module load miniconda'
+```ml miniconda``` or ```module load miniconda```
 
 to create an environment in your $USER/.conda/envs directory (this will only be accessible to the $USER)
 
