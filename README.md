@@ -13,7 +13,7 @@ To load miniconda (which just gives you access to the program conda)
 
 to create an environment in your $USER/.conda/envs directory (this will only be accessible to the $USER)
 
-```conda create <env name>```
+```conda create -n <env name>```
 
 to create an environment in a directory which is available to the whole lab, do the following:
 
