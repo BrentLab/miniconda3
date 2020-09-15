@@ -8,4 +8,4 @@ channel_priority: flexible
 envs_dirs:
   - $HOME/.conda/envs
 pkgs_dirs:
-  - $CONDA_WORKING_DIR/pkgs
+  - $HOME/.conda/pkgs
